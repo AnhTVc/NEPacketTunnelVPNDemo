@@ -15,7 +15,7 @@ class ViewController: UIViewController {
 
     // Hard code VPN configurations
     let tunnelBundleId = "com.project.etoken.SimpleTunnel.TunnelProvider"
-    let serverAddress = "192.168.149.108"
+    let serverAddress = "ip-server"
     let serverPort = "54345"
     let mtu = "1400"
     let ip = "10.8.0.2"
