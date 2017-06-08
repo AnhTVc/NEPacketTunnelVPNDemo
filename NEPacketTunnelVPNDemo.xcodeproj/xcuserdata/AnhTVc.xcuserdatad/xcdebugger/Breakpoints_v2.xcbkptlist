@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEPacketTunnelVPNDemo/ViewController.swift"
+            timestampString = "518540638.284252"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "115"
+            endingLineNumber = "115"
+            landmarkName = "go(_:forEvent:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEPacketTunnelVPNDemo.ViewController.(go (__ObjC.UIButton, forEvent : __ObjC.UIEvent) -&gt; ()).(closure #1)"
+                  moduleName = "NEPacketTunnelVPNDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenmanhtuan/Documents/AnhTVc/openvpn/openvpn-build/new3/02062017/NEPacketTunnelVPNDemo/NEPacketTunnelVPNDemo/ViewController.swift"
+                  timestampString = "518541666.467114"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEPacketTunnelVPNDemo.ViewController.(go (__ObjC.UIButton, forEvent : __ObjC.UIEvent) -&gt; ()).(closure #1)"
+                  moduleName = "NEPacketTunnelVPNDemo"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/nguyenmanhtuan/Documents/AnhTVc/openvpn/openvpn-build/new3/02062017/NEPacketTunnelVPNDemo/NEPacketTunnelVPNDemo/ViewController.swift"
+                  timestampString = "518541666.469786"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "115"
+                  endingLineNumber = "115"
+                  offsetFromSymbolStart = "68">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEPacketTunnelVPNDemo/ViewController.swift"
+            timestampString = "518540675.793181"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "84"
+            endingLineNumber = "84"
+            landmarkName = "VPNStatusDidChange(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
