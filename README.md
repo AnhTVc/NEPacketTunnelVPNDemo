@@ -22,7 +22,7 @@ This demo and server side demo are extremely simplified and only for demonstrati
 
 9. Find a Linux machine, build and run [simple-vpn-demo](https://github.com/lxdcn/simple-vpn-demo), fill its IP address to [ViewController.swift](https://github.com/lxdcn/NEPacketTunnelVPNDemo/blob/master/NEPacketTunnelVPNDemo/ViewController.swift#L18).
 
-## build server vpn in server
+## build server vpn in server and run test
 
 1. clone project simple vpn [here](https://github.com/lxdcn/simple-vpn-demo) in server linux (require gcc - install gcc in ubuntu "apt-get install gcc")
 2. cd folder simple-vpn-demo run ()
