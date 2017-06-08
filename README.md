@@ -20,8 +20,6 @@ This demo and server side demo are extremely simplified and only for demonstrati
 
 7. Do the same thing for extention `NEPacketTunnelVPNDemoTunnel` target.
 
-9. Find a Linux machine, build and run [simple-vpn-demo](https://github.com/lxdcn/simple-vpn-demo), fill its IP address to [ViewController.swift](https://github.com/lxdcn/NEPacketTunnelVPNDemo/blob/master/NEPacketTunnelVPNDemo/ViewController.swift#L18).
-
 ## build server vpn in server and run test
 
 1. clone project simple vpn [here](https://github.com/lxdcn/simple-vpn-demo) in server linux (require gcc - install gcc in ubuntu "apt-get install gcc")
@@ -29,6 +27,6 @@ This demo and server side demo are extremely simplified and only for demonstrati
     $make
     $./vpn
 3. server open port: 54345 for UDP. 
-4. After build & run `NEPacketTunnelVPNDemo` on your iPhone, change IP server in file ViewController.swift
+4. After build & run `NEPacketTunnelVPNDemo` on your iPhone, change IP server in file [ViewController.swift](https://github.com/AnhTVc/NEPacketTunnelVPNDemo/blob/master/NEPacketTunnelVPNDemo/ViewController.swift).
     let serverAddress = "<ip-server>"
 5. The `Connect` at the center of iPhone screen is a **BUTTON**
